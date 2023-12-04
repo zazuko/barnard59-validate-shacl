@@ -1,3 +1,3 @@
 #  barnard59-validate-shacl
 
-Moved to https://github.com/zazuko/barnard59
+Renamed `barnard59-shacl` and moved to https://github.com/zazuko/barnard59
